@@ -4,4 +4,6 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 
 It is using material UI and tailwind css for the designing.
 
-![Design][image.png]
+
+# Design:
+![Design](image.png)
