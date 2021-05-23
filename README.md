@@ -6,4 +6,4 @@ It is using material UI and tailwind css for the designing.
 
 
 # Design:
-![Design](image.png)
+![Design](image.PNG)
