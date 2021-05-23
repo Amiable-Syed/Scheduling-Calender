@@ -6,8 +6,11 @@ It is using material UI and tailwind css for the designing.
 
 # Get Started:
 To install the dependencies:
+
 npm install
+
 To run the project:
+
 npm start
 
 # Design:
